@@ -1,0 +1,9 @@
+[package]
+name = "t-rust"
+version = "0.0.1"
+edition = "2018"
+authors = ["Namkyu Park <lak9348@gmail.com>"]
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
