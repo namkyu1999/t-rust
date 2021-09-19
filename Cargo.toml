@@ -2,6 +2,7 @@
 name = "t-rust"
 version = "0.0.1"
 edition = "2018"
+description = ""
 authors = ["Namkyu Park <lak9348@gmail.com>"]
 readme = "README.md"
 license = "MIT"
